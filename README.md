@@ -1,4 +1,4 @@
-# repo-factory 🏭
+# Repo-factory 🏭
 
 CLI to spin up production-ready repos from a tiny YAML config in under 5 minutes.
 
