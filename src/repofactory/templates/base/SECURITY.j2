@@ -1,0 +1,5 @@
+# Security Policy
+
+- Report vulnerabilities privately to maintainers.
+- Do not include secrets in repos. Use environment variables.
+- Rotate tokens regularly; never commit credentials.

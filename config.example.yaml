@@ -1,0 +1,9 @@
+name: demo-repo
+type: cli
+language: python
+features:
+  - docker
+  - ci
+  - lint
+  - tests
+  - docs

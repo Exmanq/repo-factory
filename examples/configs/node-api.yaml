@@ -1,0 +1,4 @@
+name: photon-api
+type: api
+language: node
+features: [lint, tests, ci]

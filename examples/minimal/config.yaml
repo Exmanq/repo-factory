@@ -1,0 +1,4 @@
+name: minimal-svc
+type: library
+language: python
+features: [lint, tests]

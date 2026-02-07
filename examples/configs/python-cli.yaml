@@ -1,0 +1,4 @@
+name: tasker-cli
+type: cli
+language: python
+features: [lint, tests, docker, ci, docs]

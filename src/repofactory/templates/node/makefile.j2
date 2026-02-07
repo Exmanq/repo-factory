@@ -1,0 +1,15 @@
+NPM := npm
+
+.PHONY: setup lint test demo run
+
+setup:
+	$(NPM) install
+
+lint:
+	$(NPM) run lint
+
+test:
+	$(NPM) test
+
+run demo:
+	$(NPM) start

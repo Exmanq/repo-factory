@@ -1,0 +1,6 @@
+# Contributing
+
+1. Fork the repo.
+2. Create a feature branch.
+3. Run lint and tests before opening a PR.
+4. Follow the issue and PR templates.

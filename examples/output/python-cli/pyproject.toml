@@ -1,0 +1,17 @@
+[project]
+name = "tasker_cli"
+version = "0.1.0"
+description = "cli template"
+requires-python = ">=3.11"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [{name = "tasker-cli maintainer"}]
+
+[project.optional-dependencies]
+dev = ["pytest", "ruff", "black"]
+
+[tool.ruff]
+line-length = 100
+
+[tool.black]
+line-length = 100

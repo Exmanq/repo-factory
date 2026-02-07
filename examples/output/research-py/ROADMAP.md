@@ -1,0 +1,6 @@
+# Roadmap
+
+- Polish CI and automation
+- Expand documentation
+- Add more examples
+- Harden testing matrix
