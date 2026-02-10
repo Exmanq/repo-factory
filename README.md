@@ -11,10 +11,10 @@ CLI to spin up production-ready repos from a tiny YAML config in under 5 minutes
 Turns `config.yaml` into a complete repo: README, LICENSE, Makefile, CI, lint/test hooks, docs skeleton, and optional Dockerfile — all templated for Python or Node.
 
 ## Who it’s for
-- Solo builders who need clean repos fast
-- Teams standardizing scaffolds
-- Hackathon projects with zero setup time
-- CI-minded folks who want lint/tests from day one
+- Solo builders who need clean repos fast!
+- Teams standardizing scaffolds!
+- Hackathon projects with zero setup time!
+- CI-minded folks who want lint/tests from day one!
 
 ## Features
 - YAML-driven: `name`, `type`, `language`, `features`
